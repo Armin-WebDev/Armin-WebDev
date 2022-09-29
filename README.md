@@ -1,7 +1,13 @@
 "# Armin-WebDev" 
 - 👋 Hi, I’m @Armin-WebDev
-- 👀 I’m interested in Backend Development.
-- 🌱 I’m currently learning Python and django
-- 💞️ I’m looking to collaborate on entery level python projects
+- My Skills are :
+# Python
+# Django
+# PostgreSQL
+# Web Scraping
+# Object Oriented Programming
+# DRF(Django REST Framework)for building RESTful APIs
+- 👀 I’m interested in FREELANCING.
+- 💞️ I’m looking to collaborate on Any Python and Django Projects
 - 📫 How to reach me ArminPouralvani@outlook.com
 
